@@ -21,5 +21,5 @@
 
 >Solidworks
 
-![CAD Image ]([https://hackster.imgix.net/uploads/attachments/1183043/_8dQYQK1ytW.blob?auto=compress%2Cformat&w=900&h=675&fit=min])
+![CAD Image ]([https://github.com/ishwariyjoshi/Repo_Ayush/blob/master/Design%20Files/CAD%20image.jpg])
 
